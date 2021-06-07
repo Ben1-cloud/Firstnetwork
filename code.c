@@ -2,5 +2,6 @@
 
 int main()
 {
-   printf("Hello Github\n");
+   printf("commit test message..\n");
+   return 0;
 }
